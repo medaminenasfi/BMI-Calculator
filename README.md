@@ -12,9 +12,4 @@ A cross-platform BMI Calculator app that collects user data (weight, height, bir
 - 🎯 Real-time BMI category result
 - 📱 Responsive UI for all screen sizes
 
-...
 
-## Screenshots
-| Input Screen | Result Screen |
-|--------------|---------------|
-| <img src="screenshots/input.png" width="300"> | <img src="screenshots/result.png" width="300"> |
